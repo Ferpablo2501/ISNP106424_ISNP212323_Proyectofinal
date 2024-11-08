@@ -1,0 +1,6 @@
+@ISNP106424_ISNP212323_Proyectofinal_HostAddress = http://localhost:5108
+
+GET {{ISNP106424_ISNP212323_Proyectofinal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
